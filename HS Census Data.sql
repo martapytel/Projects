@@ -1,3 +1,10 @@
++ -- Project title: Analyzing Education & Census Data
++ -- Database source: 
+-- https://static-assets.codecademy.com/community/datasets_forum_projects/census_data.csv
+-- https://static-assets.codecademy.com/community/datasets_forum_projects/public_hs_data.csv
++ -- Queried using: DBGate
+
++ -- Tasks: 
 -- Get a feel for the data by selecting all available columns from both, census and public_hs tables.
 SELECT * 
 FROM census_data;
