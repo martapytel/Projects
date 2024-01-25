@@ -1,3 +1,9 @@
++ -- Project title: Analyzing Subreddit posts
++ -- Database source: 
+  -- Local data from CodeCademy titled "analyze-data-sql-practice"
++ -- Queried using: DBGate
+
++ -- Tasks: 
 -- 1. What are the column names of each table?
 Select * from users
 Limit 10;
@@ -15,7 +21,6 @@ From subreddits
 There are 20 distinct subreddits.
 
 -- 4. Write a few more queries to figure out the following information:
-
 -- 4a.What user has the highest score?
 Select username, max(score)
 From users;
