@@ -1,18 +1,18 @@
-<b>MartaPytel's Highlighted Projects<br>
+# **Marta Pytel's Highlighted Projects**
 
-Hello, and thanks for stopping by! This repository contains examples of SQL I've written for solo projects and while working through SQL, machine learning, and other data analytics courses. Below are a few highlighted projects, including data visualizations I created using Tableau. Feel free to take a look around and reach out if you have any feedback or questions.
+Hello, this repository contains examples of SQL, Excel and Tableau solo projects I've worked on while working through SQL, data vizualization, and other business analysis targeted courses. Below are a few highlighted projects. Feel free to take a look around and reach out if you have any feedback or questions.<br><br>
 
-Highlighted Projects
-__________ Analaysis - SQL: In this project, I used a dataset found on Kaggle to analyze trends in the top 50 songs of 2021. Using pitch-class integer notation, I examined the key and tonality for these top songs. I joined data from a Hooktheory database to compare the most popular song keys with the song keys most represented in the top 50 Spotify tracks of 2021.
-__________ Analysis - SQL: In this project, I used my own data from Goodreads to analyze how my book ratings differ from the average ratings found on Goodreads. I categorized the books by genre and obtained the average difference in rating per genre. I created another table containing similar data for books that won the Booker Prize for Fiction from 2000-2021 and joined this data to predict, for each Booker Prize-winning book, what my rating would be.
-__________ Dashboard - Tableau
+## 1. **BikeStores US company stores performance analysis - Excel & Tableau**
+![alt text]()<br>
+Dashboard: [BikeStores dashboard]([https://docs.google.com/spreadsheets/d/1ESMiCguVJjUzjVNxLffngDrHsQcMFHrt/edit#gid=1194135803](https://public.tableau.com/app/profile/marta.pytel/viz/BikeStore_17164798131360/Dashboard1?publish=yes))<br>
+Data: [Sample BikeStores data](https://docs.google.com/spreadsheets/d/1ESMiCguVJjUzjVNxLffngDrHsQcMFHrt/edit#gid=1194135803)<br>
+Audience: Performance summary for BikeStores company executive board<br>
+Purpose: Explore and interact with visualized sales performance data of BikeStores company <br>
+The BikeStores dataset captures the company's sales performance from 2016 to 2018. This dashboard provides an interactive view of sales trends, top clients, top salespeople, and an office location map. Users can explore year-over-year sales comparisons, identify key contributors, and understand regional performance. My interest in data visualization and business analytics inspired me to create this dashboard, which presents crucial information in an accessible and engaging way to help inform strategic decisions.
+
+2. __________ Analaysis - SQL
+3. __________ Analysis - SQL
+4. __________ Dashboard - Tableau
 Data: Tableau sample data
 Audience: Sales executives
-Purpose: Identify factors behind low profit ratio in order to boost profits
-In this dashboard, I used a Tableau dataset containing sample sales data from 2018 to 2021. Though the sample dataset provides a wider overview of sales data, I saw an opportunity to strategically visualize clear, actionable insights to my fictional audience of sales executives. The dashboard allows my audience to immediately pinpoint the geographical, categorical, and seasonal factors that are leading to profit loss — providing the guided insight that allows them to impact change on their team.
-
-__________ Dashboard - Tableau
-Data: World Happiness Report
-Audience: Anyone interested in geography & culture
-Purpose: Explore and interact with visualized world happiness data
-The World Happiness Report dataset ranks the happiness of 155 countries from 2015 to 2019. For this dashboard, I wanted the audience to be able to dive deeper into countries around the world and gain a contextual understanding of where those countries rank against the world average. The dashboard allows the user to explore the world map and compare metrics across countries. I'm endlessly interested in world geography and cultural nuances, so I created a dashboard that gets right to the information points I would most want to play with.
+Purpose: 
