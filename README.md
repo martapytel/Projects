@@ -18,3 +18,12 @@ Audience: Ministry of Transport, Police Force, Emergency Services Department, Tr
 Purpose: The Road Accident dataset captures critical information about accidents over two years, providing stakeholders with comprehensive insights into accident severity, casualty distribution, and trends over time. This dashboard offers an interactive view of key performance indicators (KPIs) and visualizes important aspects of road safety to inform strategic decisions and policymaking. <br>
 
 The data includes total casualties, accident severity, casualties by vehicle type, monthly trends, road type, and road surface conditions. Additionally, it explores the relationship between casualties by area/location and time of day. This dashboard combines data visualization and business analytics skills to present critical road accident information in an accessible and engaging way, aiding stakeholders in making informed decisions to enhance road safety. 
+
+## 3. **Comprehensive Analysis of the US Electric Vehicle Market: Trends, Technological Advancements, and Regional Adoption Insights (01.2010-01.2024)**<br>
+
+<img src="https://raw.githubusercontent.com/martapytel/images/main/EV%20dashboard.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="400" /> <br>
+Data: [Electric_Vehicle_Population_Data 2010-2024 UK Data](https://docs.google.com/spreadsheets/d/1XMlTOJCI4Csq0qHF6ZvI97ei690USPeAwzmechbvVyk/edit?usp=sharing)<br>
+Audience: Electric vehicle industry stakeholders, including manufacturers, policymakers, and market analysts.<br>
+Purpose: To provide a comprehensive analysis of the electric vehicle market, focusing on the overall landscape, technological advancements, market share distribution, and regional adoption trends to inform strategic decisions and foster a deeper understanding of EV market dynamics.<br>
+
+The dataset captures key insights into the electric vehicle market in the United States, including the total number of Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs), their average electric range, and the distribution of vehicles by model year (from 2010 onwards) and state. It highlights the top vehicle manufacturers and models, the proportion of vehicles eligible for Clean Alternative Fuel Vehicle (CAFV) incentives, and presents the market's growth and adoption trends through various interactive visualizations such as line charts, bar charts, and maps.
