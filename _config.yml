@@ -1,1 +1,5 @@
-
+title: Marta Pytel
+logo: https://raw.githubusercontent.com/martapytel/images/main/Profile%20photo-min.jpg
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
