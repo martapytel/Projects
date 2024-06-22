@@ -12,7 +12,7 @@ The BikeStores dataset captures the company's sales performance from 2016 to 201
 
 ## 2. **[Comprehensive Analysis of the US Electric Vehicle Market (01.2010-01.2024) - Tableau](https://public.tableau.com/views/ElectricVehiclesDataAnalysis_17189742768510/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**<br>
 
-<img src="https://raw.githubusercontent.com/martapytel/images/main/EV%20dashboard.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="400" /> <br>
+<img src="https://raw.githubusercontent.com/martapytel/images/main/EV%20dashboard.jpg"/> <br>
 Data: [Electric_Vehicle_Population_Data 2010-2024 UK Data](https://docs.google.com/spreadsheets/d/1XMlTOJCI4Csq0qHF6ZvI97ei690USPeAwzmechbvVyk/edit?usp=sharing)<br>
 Audience: Electric vehicle industry stakeholders, including manufacturers, policymakers, and market analysts.<br>
 Purpose: To provide a comprehensive analysis of the electric vehicle market, focusing on the overall landscape, technological advancements, market share distribution, and regional adoption trends to inform strategic decisions and foster a deeper understanding of EV market dynamics.<br>
@@ -21,7 +21,7 @@ The dataset captures key insights into the electric vehicle market in the United
 
 ## 3. **[Analysis of Road Safety in the UK between 2021-2022 - Excel](https://github.com/martapytel/files/blob/main/Road%20Accident%20Dashboard.xlsx)**<br>
 
-<img src="https://raw.githubusercontent.com/martapytel/images/main/Screenshot%202024-06-17%20at%2010.04.29.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="700" height="400" /> <br>
+<img src="https://raw.githubusercontent.com/martapytel/images/main/Screenshot%202024-06-17%20at%2010.04.29.png"/> <br>
 Data: [Road Safety 2021-2022 UK Data](https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=sharing&ouid=103036376235127672085&rtpof=true&sd=true)<br>
 Audience: Ministry of Transport, Police Force, Emergency Services Department, Traffic Management Agencies<br>
 Purpose: The Road Accident dataset captures critical information about accidents over two years, providing stakeholders with comprehensive insights into accident severity, casualty distribution, and trends over time. This dashboard offers an interactive view of key performance indicators (KPIs) and visualizes important aspects of road safety to inform strategic decisions and policymaking. <br>
