@@ -3,7 +3,7 @@
 Hello, this repository contains examples of SQL, Excel and Tableau solo projects I've worked on while working through SQL, data vizualization, and other business analysis targeted courses. Below are a few highlighted projects. Feel free to take a look and reach out if you have any feedback or questions.<br><br>
 
 ## 1. **[BikeStores US company stores performance analysis - Tableau version](https://public.tableau.com/views/BikeStore_17164798131360/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**<br>
-## [BikeStores project Excel version](https://github.com/martapytel/files/blob/main/BikeStores%20Excel.xlsx) <br>
+## [BikeStores project - Excel version](https://github.com/martapytel/files/blob/main/BikeStores%20Excel.xlsx) <br>
 <img src="https://raw.githubusercontent.com/martapytel/images/main/Image%2027-05-2024%20at%2012.20.jpeg"/> <br>
 Data: [Sample BikeStores data](https://docs.google.com/spreadsheets/d/1ESMiCguVJjUzjVNxLffngDrHsQcMFHrt/edit#gid=1194135803)<br>
 Audience: Performance summary for BikeStores company executive board<br>
