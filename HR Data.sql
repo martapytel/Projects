@@ -1,6 +1,8 @@
++ -- Project title: Analyze employee population data as well as attrition rates from a sample HR database
 + -- Sample HR Data: https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?usp=sharing&ouid=103036376235127672085&rtpof=true&sd=true
-+ -- Tableau Dashboard: 
-+ -- Task: Validate KPI data against Tableau dashboard for the following values:
++ -- Tableau Dashboard:
+  
++ -- Tasks: Validate KPI data against Tableau dashboard for the following values:
 + -- 1. Total # of employees per educational background:
 SELECT
   education,
