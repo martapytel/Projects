@@ -1,7 +1,7 @@
--- Sample HR Data: https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?usp=sharing&ouid=103036376235127672085&rtpof=true&sd=true
--- Tableau Dashboard: 
--- Task: Validate KPI data against Tableau dashboard for the following values:
--- 1. Total # of employees per educational background:
++ -- Sample HR Data: https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?usp=sharing&ouid=103036376235127672085&rtpof=true&sd=true
++ -- Tableau Dashboard: 
++ -- Task: Validate KPI data against Tableau dashboard for the following values:
++ -- 1. Total # of employees per educational background:
 SELECT
   education,
   SUM(employee_count)
@@ -18,7 +18,7 @@ ORDER BY
 -- High School	170
 -- Doctoral Degree	48
 
--- 2. # of employees per department:
++ -- 2. # of employees per department:
 SELECT
   department,
   SUM(employee_count)
@@ -33,7 +33,7 @@ ORDER BY
 -- Sales	446
 -- HR	63
 
--- 3. The employee attrition count in Sales department & with High School education only:
++ -- 3. The employee attrition count in Sales department & with High School education only:
 SELECT
   COUNT(attrition) AS 'Employee Attrition count'
 FROM
@@ -45,7 +45,7 @@ WHERE
 
 -- 11
 
--- 4. The employee attrition rate shown as a percentage, rounded to 2 decimal points, per department:
++ -- 4. The employee attrition rate shown as a percentage, rounded to 2 decimal points, per department:
 SELECT department AS 'Department',
   ROUND(
     (
@@ -70,7 +70,7 @@ ORDER BY 2 DESC;
 -- Sales	20.63
 -- R&D	9.57
 
--- 5. # of employees per age group:
++ -- 5. # of employees per age group:
 SELECT
   CASE
     WHEN age < 20 THEN '< 20'
@@ -96,7 +96,7 @@ ORDER BY
 -- 40 - 50	322
 -- 50 >	143
 
--- 6. # of employees per gender:
++ -- 6. # of employees per gender:
 SELECT
   gender,
   COUNT(gender) AS '# of Employees'
@@ -110,7 +110,7 @@ ORDER BY
 -- Male	882
 -- Female	588
 
--- 7. # of employees per their educational backgrounds: 
++ -- 7. # of employees per their educational backgrounds: 
 SELECT
   education_field,
   COUNT(attrition) AS '# of Employees'
@@ -130,7 +130,7 @@ ORDER by
 -- Other	11
 -- Human Resources	7
 
--- 8. Attrition rates of employees per age group and gender, denoted in count and percentage:
++ -- 8. Attrition rates of employees per age group and gender, denoted in count and percentage:
 SELECT
   age_band,
   gender,
@@ -165,7 +165,7 @@ ORDER BY 1;
 -- Under 25	Female	18	7.59%
 -- Under 25	Male	20	8.44%
 
--- 9. Average job satisfaction of employees per department:
++ -- 9. Average job satisfaction of employees per department:
 SELECT
   job_role,
   SUM(employee_count) AS '# of Employees',
