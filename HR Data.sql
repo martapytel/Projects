@@ -169,7 +169,7 @@ ORDER BY 1;
 SELECT
   job_role,
   SUM(employee_count) AS '# of Employees',
-  ROUND(AVG(job_satisfaction), 1) AS 'Satisfaction Score'
+  ROUND(AVG(job_satisfaction), 2) AS 'Satisfaction Score'
 FROM
   hrdata
 GROUP BY
@@ -177,12 +177,12 @@ GROUP BY
 ORDER BY
   3 DESC;
 
--- Sales Executive	326	2.8
--- Research Scientist	292	2.8
--- Healthcare Representative	131	2.8
--- Laboratory Technician	259	2.7
--- Manufacturing Director	145	2.7
--- Manager	102	2.7
--- Sales Representative	83	2.7
+-- Healthcare Representative	131	2.79
+-- Research Scientist	292	2.77
+-- Sales Executive	326	2.75
+-- Sales Representative	83	2.73
+-- Manager	102	2.71
 -- Research Director	80	2.7
--- Human Resources	52	2.6
+-- Laboratory Technician	259	2.69
+-- Manufacturing Director	145	2.68
+-- Human Resources	52	2.56
