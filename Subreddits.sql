@@ -1,6 +1,5 @@
 + -- Project title: Analyzing Subreddit posts
-+ -- Database source: 
-  -- Local data from CodeCademy titled "analyze-data-sql-practice"
++ -- Database source: Local data from CodeCademy titled "analyze-data-sql-practice"
 + -- Queried using: DBGate
 
 + -- Tasks: 
