@@ -37,3 +37,6 @@ In this project, I utilized SQL through DBGate to analyze US high school census 
 
 ### [Analyzing Subreddit posts - SQL](https://github.com/martapytel/Personal-Projects/blob/main/Subreddits.sql)
 The primary goal of this project was to uncover insights related to user activity, post popularity, and subreddit engagement using a local dataset from the CodeCademy platform. Key tasks included identifying the primary and foreign keys within the tables, counting the number of distinct subreddits, and determining which users and posts had the highest scores. Additionally, I utilized joins to analyze the number of posts per user, identify popular posts, and calculate the average score for posts within each subreddit. This comprehensive analysis provided a detailed understanding of the dynamics and interactions within various subreddits.
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mpytel94" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/mpytel94?trk=profile-badge">Marta Pytel</a></div>
