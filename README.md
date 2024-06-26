@@ -2,9 +2,6 @@
 
 Hello, this repository contains examples of SQL, Excel and Tableau solo projects I've worked on while working through SQL, data vizualization, and other business analysis targeted courses. Below are a few highlighted projects. Feel free to take a look and reach out if you have any feedback or questions.<br><br>
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mpytel94" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/mpytel94?trk=profile-badge">Let's Connect!</a></div>
-
 ## 1. **[BikeStores US company stores performance analysis - Tableau version](https://public.tableau.com/views/BikeStore_17164798131360/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)**<br>
 ## [BikeStores project - Excel version](https://github.com/martapytel/files/blob/main/BikeStores%20Excel.xlsx) <br>
 <img src="https://raw.githubusercontent.com/martapytel/images/main/Image%2027-05-2024%20at%2012.20.jpeg"/> <br>
@@ -39,4 +36,8 @@ This features a data analysis project using SQL through DBGate to extract and an
 In this project, I utilized SQL through DBGate to analyze US high school census data, aiming to provide insights into educational performance and socioeconomic factors. The analysis includes examining the number of public high schools per zip code and state, identifying cities with the highest math proficiency level, assessing reading proficiency per state, and exploring the relationship between household income and student performance.
 
 ### [Analyzing Subreddit posts - SQL](https://github.com/martapytel/Personal-Projects/blob/main/Subreddits.sql)
-The primary goal of this project was to uncover insights related to user activity, post popularity, and subreddit engagement using a local dataset from the CodeCademy platform. Key tasks included identifying the primary and foreign keys within the tables, counting the number of distinct subreddits, and determining which users and posts had the highest scores. Additionally, I utilized joins to analyze the number of posts per user, identify popular posts, and calculate the average score for posts within each subreddit. This comprehensive analysis provided a detailed understanding of the dynamics and interactions within various subreddits.
+The primary goal of this project was to uncover insights related to user activity, post popularity, and subreddit engagement using a local dataset from the CodeCademy platform. Key tasks included identifying the primary and foreign keys within the tables, counting the number of distinct subreddits, and determining which users and posts had the highest scores. Additionally, I utilized joins to analyze the number of posts per user, identify popular posts, and calculate the average score for posts within each subreddit. This comprehensive analysis provided a detailed understanding of the dynamics and interactions within various subreddits.<br>
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mpytel94" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/mpytel94?trk=profile-badge">Let's Connect!</a></div>
