@@ -38,6 +38,10 @@ In this project, I utilized SQL through DBGate to analyze US high school census 
 ### [Analyzing Subreddit posts - SQL](https://github.com/martapytel/Personal-Projects/blob/main/Subreddits.sql)
 The primary goal of this project was to uncover insights related to user activity, post popularity, and subreddit engagement using a local dataset from the CodeCademy platform. Key tasks included identifying the primary and foreign keys within the tables, counting the number of distinct subreddits, and determining which users and posts had the highest scores. Additionally, I utilized joins to analyze the number of posts per user, identify popular posts, and calculate the average score for posts within each subreddit. This comprehensive analysis provided a detailed understanding of the dynamics and interactions within various subreddits.<br>
 
+### [Sending samples to customers process - BPMN](https://modeler.camunda.io/share/c8966ade-e919-47cc-9153-b07afabc66c0)
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mpytel94" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pl.linkedin.com/in/mpytel94?trk=profile-badge">Let's Connect!</a></div>
+### [Airline passenger boarding - BPMN](https://modeler.camunda.io/share/1c519156-aa1f-426a-8e4b-413418bf24a3)
+
+### [Warehouse shoes order delivery process - BPMN](https://modeler.camunda.io/share/c13785e3-9d79-4bca-a7de-09f4978b3bee)
+
+### [Processing equipment, from invoice, shipment, to customer confirmation - BPMN](https://modeler.camunda.io/share/3753c127-b975-464f-9475-1b17c6bcc57c)
