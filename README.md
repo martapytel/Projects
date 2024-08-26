@@ -36,16 +36,16 @@ This features a data analysis project using SQL through DBGate to extract and an
 In this project, I utilized SQL through DBGate to analyze US high school census data, aiming to provide insights into educational performance and socioeconomic factors. The analysis includes examining the number of public high schools per zip code and state, identifying cities with the highest math proficiency level, assessing reading proficiency per state, and exploring the relationship between household income and student performance.
 
 ### [Analyzing Subreddit posts - SQL](https://github.com/martapytel/Personal-Projects/blob/main/Subreddits.sql)
-The primary goal of this project was to uncover insights related to user activity, post popularity, and subreddit engagement using a local dataset from the CodeCademy platform. Key tasks included identifying the primary and foreign keys within the tables, counting the number of distinct subreddits, and determining which users and posts had the highest scores. Additionally, I utilized joins to analyze the number of posts per user, identify popular posts, and calculate the average score for posts within each subreddit. This comprehensive analysis provided a detailed understanding of the dynamics and interactions within various subreddits.<br>
+The primary goal of this project was to uncover insights related to user activity, post popularity, and subreddit engagement using a local dataset from the CodeCademy platform. Key tasks included identifying the primary and foreign keys within the tables, counting the number of distinct subreddits, and determining which users and posts had the highest scores. Additionally, I utilized joins to analyze the number of posts per user, identify popular posts, and calculate the average score for posts within each subreddit. This comprehensive analysis provided a detailed understanding of the dynamics and interactions within various subreddits.<br><br>
 
-<img src="https://raw.githubusercontent.com/martapytel/images/main/Image.png"/> <br>
 ### [Sending samples to customers process - BPMN](https://modeler.camunda.io/share/c8966ade-e919-47cc-9153-b07afabc66c0)
+<img src="https://raw.githubusercontent.com/martapytel/images/main/Image.png"/> <br>
 
-<img src="https://raw.githubusercontent.com/martapytel/images/main/Image%2026-08-2024%20at%2019.32.jpeg"/> <br>
 ### [Airline passenger boarding - BPMN](https://modeler.camunda.io/share/1c519156-aa1f-426a-8e4b-413418bf24a3)
+<img src="https://raw.githubusercontent.com/martapytel/images/main/Image%2026-08-2024%20at%2019.32.jpeg"/> <br>
 
-<img src="https://raw.githubusercontent.com/martapytel/images/main/Image%2026-08-2024%20at%2019.35.jpeg"/> <br>
 ### [Warehouse shoes order delivery process - BPMN](https://modeler.camunda.io/share/c13785e3-9d79-4bca-a7de-09f4978b3bee)
+<img src="https://raw.githubusercontent.com/martapytel/images/main/Image%2026-08-2024%20at%2019.35.jpeg"/> <br>
 
-<img src="https://raw.githubusercontent.com/martapytel/images/main/Image%2026-08-2024%20at%2019.37.jpeg"/> <br>
 ### [Processing equipment, from invoice, shipment, to customer confirmation - BPMN](https://modeler.camunda.io/share/3753c127-b975-464f-9475-1b17c6bcc57c)
+<img src="https://raw.githubusercontent.com/martapytel/images/main/Image%2026-08-2024%20at%2019.37.jpeg"/> <br>
